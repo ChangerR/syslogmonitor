@@ -1,0 +1,9 @@
+{
+	"mailsmtp":"xxxx",
+	"mailuser":"xxx",
+	"mailpass":"xxx6666",
+	"mailto":"xx",
+	"daemon":false,
+	"port":55555,
+	"pidfile":"syslog.pid"
+}
